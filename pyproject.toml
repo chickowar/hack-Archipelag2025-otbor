@@ -14,7 +14,8 @@ dependencies = [
     "matplotlib (>=3.10.5,<4.0.0)",
     "ultralytics (>=8.3.173,<9.0.0)",
     "tensorboard (>=2.20.0,<3.0.0)",
-    "scikit-learn (>=1.7.1,<2.0.0)"
+    "scikit-learn (>=1.7.1,<2.0.0)",
+    "kaggle (>=1.7.4.5,<2.0.0.0)"
 ]
 
 [tool.poetry]
